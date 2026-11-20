@@ -53,10 +53,13 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+
 Employee Data :
+
 <img width="630" height="275" alt="539666011-3131dfa2-c4b0-4291-9703-f6d34681eeb9" src="https://github.com/user-attachments/assets/6b542b9e-7ca1-4d1f-aef8-6cea2c612dfe" />
 
 Weather Table :
+
 <img width="595" height="366" alt="539666146-de1e7dfc-ab09-42a8-aca6-0ccd16f356e8" src="https://github.com/user-attachments/assets/88e4c715-f280-4589-b216-dffbdfa52909" />
 
 
