@@ -85,8 +85,8 @@ Weather Table :
 
 Employee Data :
 
-<img width="613" height="248" alt="539666539-0630da89-bb70-4ced-ada5-a50a12c2dfab" src="https://github.com/user-attachments/assets/f95818c2-6075-4ae3-8b5f-
-00faa2be660b" />
+<img width="613" height="248" alt="539666539-0630da89-bb70-4ced-ada5-a50a12c2dfab" src="https://github.com/user-attachments/assets/2821fe56-4105-4783-bc9c-8d350b27da13" />
+
 
 Weather Data :
 
